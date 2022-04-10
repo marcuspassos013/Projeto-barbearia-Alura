@@ -1,2 +1,3 @@
 # Projeto-barbearia-Alura
-Projeto feito como parte do curso de HTML e CSS em parceria com a Oracle One Alura
+Projeto feito como parte do curso de HTML e CSS em parceria com a Oracle One Alura.
+Aprendi muito com este projeto e espero crescer ainda mais...
